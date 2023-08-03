@@ -1,0 +1,292 @@
+Automaton Simulator, v1.0
+turing {
+	alphabet {abcd*_}
+	state {
+		initial {yes}
+		coord {264 160}
+	}
+	state {
+		coord {512 167}
+	}
+	state {
+		coord {695 162}
+	}
+	state {
+		final {yes}
+		coord {278 328}
+	}
+	edge 0 1 {
+		transits {a}
+		offset {0.6302084701176529}
+		direction {R}
+		output {c}
+	}
+	edge 1 2 {
+		transits {b}
+		offset {0.5235987755982988}
+		direction {L}
+		output {d}
+	}
+	edge 0 3 {
+		transits {_}
+		offset {0.5235987755982988}
+		direction {R}
+		output {d}
+	}
+	edge 2 0 {
+		transits {c}
+		offset {0.5235987755982988}
+		direction {R}
+		output {c}
+	}
+	edge 1 1 {
+		transits {ad}
+		offset {1.6243165952542118}
+		direction {R}
+	}
+	edge 2 2 {
+		transits {ad}
+		offset {1.39408747072486}
+		direction {L}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {182 671}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {328 198}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {328 198}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {328 198}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {256 164}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {520 109}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {1065 289}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {1065 289}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {1065 289}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {1065 289}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {308 543}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {509 107}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {503 111}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {552 59}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {564 110}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {276 162}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {369 113}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {388 107}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {388 107}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {374 111}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {377 108}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {494 105}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {494 105}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {503 117}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {498 110}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {517 110}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {493 104}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {492 105}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {582 52}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {510 113}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {510 113}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {640 234}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {1226 197}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {1216 198}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {1216 198}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {1216 198}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {1216 198}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {818 292}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {502 113}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {502 108}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {502 108}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {502 108}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {502 205}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {596 127}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {614 127}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {600 133}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {615 88}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {898 367}
+	}
+}
